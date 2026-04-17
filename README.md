@@ -1,1 +1,7 @@
-new calculator website calculate with more efficiency save time and struggle 
+Calculator Web App
+
+This is a simple calculator built using HTML, CSS, and JavaScript.
+
+Features:
+- Basic arithmetic
+- Clean UI
